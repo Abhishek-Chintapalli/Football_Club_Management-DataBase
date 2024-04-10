@@ -128,7 +128,7 @@ SELECT * FROM Contract
 DELETE FROM "Player" WHERE Player_ID = 1023;*/
 
 
-INSERT INTO Player (Player_ID, PlayerName, PlayerEmail, PhoneNumber, DateOfBirth, TeamID, Contract_ID) VALUES
+/*INSERT INTO Player (Player_ID, PlayerName, PlayerEmail, PhoneNumber, DateOfBirth, TeamID, Contract_ID) VALUES
 (100, 'Lionel Ronaldo', 'lionelronaldo@barca.com', '123456789', '1988-06-24', 502, 425)
 
 INSERT INTO Player (Player_ID, PlayerName, PlayerEmail, PhoneNumber, DateOfBirth, TeamID, Contract_ID) VALUES
