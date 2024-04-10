@@ -12,7 +12,7 @@
 
 ## Visualization File is included in the GUI folder
 
-Triggers test cases are commented below in the TRIGGERS.sql file. It need to be uncommented in order to test.
+## Triggers test cases are commented below in the TRIGGERS.sql file. It need to be uncommented in order to test.
 
 ## Instructions to run GUI:
 Replace the server name with your own server name in conn
