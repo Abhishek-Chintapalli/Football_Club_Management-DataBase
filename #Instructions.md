@@ -10,12 +10,14 @@
 7. UDFs.sql
 8. Encryption.sql
 
+## Visualization File is included in the GUI folder
+
 ## Instructions to run GUI:
 Replace the server name with your own server name in conn
 
 ex:
 
-# Replace 'ODBC Driver 17 for SQL Server' with the driver installed on your machine if different
+Replace 'ODBC Driver 17 for SQL Server' with the driver installed on your machine if different
 ```python
     conn = pyodbc.connect(
         r'DRIVER={ODBC Driver 17 for SQL Server};'
