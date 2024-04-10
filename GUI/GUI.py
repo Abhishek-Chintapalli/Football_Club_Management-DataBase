@@ -43,7 +43,7 @@ try:
     # Replace 'ODBC Driver 17 for SQL Server' with the driver installed on your machine if different
     conn = pyodbc.connect(
         r'DRIVER={ODBC Driver 17 for SQL Server};'
-        r'SERVER=LAPTOP-JJEV53GR;'
+        r'SERVER=YourServerName;'
         r'DATABASE=Football_Club_Management;'
         r'Trusted_Connection=yes;'
     )
