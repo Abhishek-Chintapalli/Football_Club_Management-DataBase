@@ -124,15 +124,15 @@ END;
 (437, '2024-01-01', '2030-12-31', 'FC Barcelona Team: Min 2 Years.');
 SELECT * FROM Contract
 
-/*DELETE FROM "Contract" WHERE ContractID = 437;
-DELETE FROM "Player" WHERE Player_ID = 1023;*/
+DELETE FROM "Contract" WHERE ContractID = 437;
+DELETE FROM "Player" WHERE Player_ID = 1023;
 
 
-/*INSERT INTO Player (Player_ID, PlayerName, PlayerEmail, PhoneNumber, DateOfBirth, TeamID, Contract_ID) VALUES
+INSERT INTO Player (Player_ID, PlayerName, PlayerEmail, PhoneNumber, DateOfBirth, TeamID, Contract_ID) VALUES
 (100, 'Lionel Ronaldo', 'lionelronaldo@barca.com', '123456789', '1988-06-24', 502, 425)
 
 INSERT INTO Player (Player_ID, PlayerName, PlayerEmail, PhoneNumber, DateOfBirth, TeamID, Contract_ID) VALUES
 (9001, 'Pierre-Emerick Aubameyang', 'pierreaubameyang@arsenal.com', '123456789', '1989-06-18', 508, 432),
-(8011, 'Edouard Mendy', 'edouardmendy@chelsea.com', '654123789', '1992-03-01', 508, 432);	 */
+(8011, 'Edouard Mendy', 'edouardmendy@chelsea.com', '654123789', '1992-03-01', 508, 432); */
 
 
